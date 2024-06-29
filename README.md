@@ -12,7 +12,7 @@ Skills: R, Python, Excel
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ejay123-tech&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ejay123-tech&layout=compact&theme=radical)
-![trophy](https://github-profile-trophy.vercel.app/?username=Ejay123-tech)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ejay123-tech&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=Ejay123-tech)
 
