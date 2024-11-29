@@ -1,5 +1,7 @@
 # About Me
-Hi! 👋 I'm a passionate Data Scientist with a strong foundation in statistics, actuarial science, and data science. My mission is to transform data into actionable insights and develop data-driven solutions to complex problems.
+Hi! 👋! My name is Edward Gichura.
+
+I'm a passionate Data Scientist with a strong foundation in statistics, actuarial science, and data science. My mission is to transform data into actionable insights and develop data-driven solutions to complex problems.
 
 ## Education
 🎓 Bachelor's Degree in Statistics and Actuarial Science
@@ -45,46 +47,7 @@ Conducted exploratory data analysis and predictive modeling using Python to unde
 
 Built interactive dashboards in Tableau to explore and present insights on video game sales trends.
 
-Here's a template for your GitHub repository README file to showcase your skills and background as a data analyst/scientist:
 
-About Me
-Hi! 👋 I'm a passionate Data Analyst and Data Scientist with a strong foundation in statistics, actuarial science, and data science. My mission is to transform data into actionable insights and develop data-driven solutions to complex problems.
-
-Education
-🎓 Bachelor's Degree in Statistics and Actuarial Science
-📚 Completed a comprehensive Data Science Course on DataCamp
-Technical Skills
-Data Analytics
-Proficient in analyzing, cleaning, and visualizing datasets to extract valuable insights.
-Skilled in creating dashboards and reports to communicate findings effectively.
-Programming and Tools
-Programming Languages:
-
-Python (pandas, NumPy, matplotlib, seaborn, scikit-learn)
-R (tidyverse, ggplot2, dplyr)
-Databases:
-
-SQL for data manipulation and querying large datasets.
-Visualization Tools:
-
-Tableau for interactive dashboards.
-Microsoft Excel for data organization and analysis.
-Machine Learning
-Experience in building predictive models using supervised and unsupervised learning techniques.
-Proficient in tasks such as feature engineering, hyperparameter tuning, and model evaluation.
-Key Projects
-Option Pricing Modeling
-
-Modeled option prices using the Heston model for volatility forecasting.
-UniEngage Hub App Development
-
-Designed a mobile and web application for university community engagement, aligned with SDG 11.
-Titanic Data Analysis
-
-Conducted exploratory data analysis and predictive modeling using Python to understand survival factors.
-Video Games Data Visualization
-
-Built interactive dashboards in Tableau to explore and present insights on video game sales trends.
 ## Certifications
 1. Data Science Certification from DataCamp
 2. Tableau Desktop Specialist (in progress)
